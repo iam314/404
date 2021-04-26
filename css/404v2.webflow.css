@@ -200,6 +200,7 @@ h1 {
   z-index: 1;
   width: 75%;
   margin: 16rem auto 19rem;
+  background-color: transparent;
   box-shadow: none;
 }
 
